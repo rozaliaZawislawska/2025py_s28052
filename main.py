@@ -1,5 +1,4 @@
 import random
-import os
 
 
 def generate_dna_sequence(length):
